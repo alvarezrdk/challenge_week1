@@ -86,60 +86,29 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-/* Benefits Lead Definitions */
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Benefits Brand Definitions */
-.benefit-brand h3 {
+/* Benefits Definitions */
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand {
+/*.benefits {
     margin-bottom: 32px;
     color: #ffffff;
-}
+}*/
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Benefits Cost Definitions */
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 /* Content Defintions */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
